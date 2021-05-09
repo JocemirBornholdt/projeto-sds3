@@ -31,7 +31,7 @@ const DonutChart = () => {
 
     }, []);
 
-    /*  //FORMA ERRADA
+    /*//FORMA ERRADA
       //let chartData : ChartData = {labels:[], series:[]};
   
       axios.get(`${BASE_URL}/sales/amount-by-seller`)
